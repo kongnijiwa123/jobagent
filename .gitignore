@@ -1,0 +1,16 @@
+# 数据（含招聘原文和个人简历）
+jobs.db
+chroma_index/
+jds/
+reports/
+resume.md
+
+# key
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# 不进仓库的本地笔记
+HANDOFF.md
